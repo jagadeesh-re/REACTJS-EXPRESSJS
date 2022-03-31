@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+img {
+  width: 300px;
+}
+@media (min-width: 768px) {
+  img {
+    width: 250px;
+  }
+  li {
+    margin-right: 10px;
+  }
+}

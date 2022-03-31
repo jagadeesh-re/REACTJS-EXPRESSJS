@@ -1,0 +1,142 @@
+.link-color {
+  color: #64748b;
+
+  height: 24px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+
+  text-align: right;
+}
+.blueColor {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+
+  /* identical to box height, or 150% */
+
+  height: 24px;
+  letter-spacing: 1px;
+  color: #0284c7;
+}
+.header-link {
+  margin-left: 0px;
+  text-decoration: none;
+}
+.small-home-paragraph {
+  text-align: left;
+}
+.logout-button {
+  background-color: #0284c7;
+  height: 32px;
+  width: 73px;
+  border: 0px;
+  color: #f8fafc;
+  border-radius: 4px;
+  padding: 8px, 16px, 8px, 16px;
+  margin-right: 10px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+}
+.navbar {
+  min-height: 3vh;
+  padding-left: 7%;
+  padding-right: 5%;
+  background-color: #ffffff;
+  border: 1px solid #e4e7eb;
+}
+.navbar-unordered-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+
+  padding: 0px;
+}
+.header-logo {
+  width: 110px;
+  margin-right: auto;
+}
+
+.header-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 360px;
+}
+.display-horizontal {
+  list-style-type: none;
+  padding-left: 50px;
+}
+@media (max-width: 767px) {
+  .big-resolution {
+    display: none;
+  }
+
+  .link-color,
+  .blueColor {
+    font-size: 12px;
+  }
+  .logout-button {
+    height: 25px;
+    margin-bottom: 10px;
+  }
+  .closeIcon {
+    font-size: 10px;
+    margin-bottom: 10px;
+  }
+  .display-horizontal {
+    list-style-type: none;
+    width: 100%;
+    padding-right: 50px;
+  }
+  .menu-icon {
+    margin-right: 38px;
+  }
+
+  .slide {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-right: auto;
+  }
+}
+@media (max-width: 483px) {
+  .display-horizontal {
+    padding-left: 20px;
+  }
+  .header-link {
+    margin-right: 10px;
+  }
+}
+@media (min-width: 767px) {
+  .display-horizontal {
+    display: none;
+  }
+  .menu-icon {
+    display: none;
+  }
+
+  .slide {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+}
+
+.close-button {
+  background-color: transparent;
+  border: 0px;
+}
+.closeIcon {
+  font-size: 25px;
+}

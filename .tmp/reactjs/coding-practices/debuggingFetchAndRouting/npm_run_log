@@ -1,0 +1,433 @@
+Cleared /tmp/jest_0
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    []
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+
+  console.log
+    [
+      {
+        id: 1,
+        title: 'React v16.9.0 and the Roadmap Update',
+        imageUrl: 'https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png',
+        avatarUrl: 'https://miro.medium.com/max/4096/1*wiOSfPd2sY0gXSNK9vv6bg.jpeg',
+        author: 'Dan Abramov,',
+        topic: 'React.js'
+      },
+      {
+        id: 2,
+        title: 'React v16.7: No, This Is Not the One With Hooks',
+        imageUrl: 'https://miro.medium.com/max/3158/1*kEPCQNY4dwVyaFuLEwJcNQ.png',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/3624098?v=4',
+        author: 'Andrew Clark',
+        topic: 'React.js'
+      }
+    ]
+
+      at BlogList.render (src/components/BlogList/index.js:32:13)
+

@@ -1,0 +1,118 @@
+/* Write your CSS here */
+.details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.details {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 700px;
+  margin-top: 20px;
+}
+.detail-image {
+  width: 300px;
+  height: 450px;
+  border-radius: 12px;
+  margin-right: 20px;
+}
+.title {
+  color: #616e7c;
+}
+.price {
+  color: #12022f;
+}
+.rating {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #3b82f6;
+  width: 60px;
+  height: 35px;
+  border-radius: 5px;
+}
+.star {
+  width: 20px;
+}
+.rating-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.reviews {
+  color: #1e293b;
+}
+.description,
+.color {
+  color: #616e7c;
+  margin-left: 10px;
+}
+.available-paragraph {
+  color: #12022f;
+  font-weight: bold;
+}
+.count-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.button {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: transparent;
+  border: 0px;
+}
+.add-to-cart {
+  background-color: #3b82f6;
+  padding: 15px 10px 15px 10px;
+  border: 0px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+.similar-product-heading {
+  color: #1e293b;
+  text-align: center;
+}
+.unordered-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  list-style-type: none;
+}
+.shopping-button {
+  background-color: #3b82f6;
+  border: 0px;
+  padding: 10px 5px 10px 5px;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.error-image {
+  width: 600px;
+}
+.error-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 767px) {
+  .details {
+    flex-direction: column;
+    width: 400px;
+  }
+  .unordered-list {
+    flex-direction: column;
+    align-items: center;
+  }
+}

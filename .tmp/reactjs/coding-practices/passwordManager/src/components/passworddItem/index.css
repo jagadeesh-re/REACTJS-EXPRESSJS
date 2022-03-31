@@ -1,0 +1,80 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+li {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #94a3b8;
+  padding: 10px;
+  margin-right: 14px;
+  margin-bottom: 14px;
+}
+.delete-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.stars-image {
+  width: 100px;
+}
+
+.delete-image {
+  width: 30px;
+}
+.profile-container {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+}
+.profile-letter {
+  color: white;
+  font-weight: bold;
+}
+.website-details {
+  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.color1 {
+  background-color: #7683cb;
+}
+.color2 {
+  background-color: #f59e0b;
+}
+.color3 {
+  background-color: #10b981;
+}
+.color4 {
+  background-color: #f97316;
+}
+.color5 {
+  background-color: #14b8a6;
+}
+.color6 {
+  background-color: #b91c1c;
+}
+.color7 {
+  background-color: #ffffff;
+}
+.color8 {
+  background-color: #0ea5e9;
+}
+.color9 {
+  background-color: #64748b;
+}
+.delete-password-button {
+  border: 0px;
+  background-color: transparent;
+}

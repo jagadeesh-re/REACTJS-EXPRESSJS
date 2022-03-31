@@ -1,0 +1,2617 @@
+Cleared /tmp/jest_0
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.error
+    Warning: Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in the componentWillUnmount method.
+        at MatchGame (/home/workspace/.tmp/reactjs/coding-practices/matchGame/src/components/MatchGame/index.js:247:35)
+        at App
+
+      285 |   componentDidMount = () => {
+      286 |     this.testId = setInterval(() => {
+    > 287 |       this.setState(prevState => ({seconds: prevState.seconds - 1}))
+          |            ^
+      288 |     }, 1000)
+      289 |   }
+      290 |
+
+      at printWarning (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:67:30)
+      at error (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:43:5)
+      at warnAboutUpdateOnUnmountedFiberInDEV (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:23914:9)
+      at scheduleUpdateOnFiber (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:21840:5)
+      at Object.enqueueSetState (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:12467:5)
+      at MatchGame.setState (node_modules/.pnpm/react@17.0.1/node_modules/react/cjs/react.development.js:365:16)
+      at src/components/MatchGame/index.js:287:12
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    1
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+
+  console.log
+    0
+
+      at NavBar (src/components/navbar/index.js:5:11)
+

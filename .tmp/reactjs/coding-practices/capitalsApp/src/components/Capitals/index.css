@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  background-color: #93c5fd;
+}
+.inner-container {
+  background-color: white;
+  border-radius: 12px;
+}
+select {
+  cursor: pointer;
+  width: 200px;
+  border-color: #cbd2d9;
+  height: 50px;
+  padding-left: 5px;
+  color: #000000;
+  font-weight: bold;
+}
+p {
+  margin-left: 5px;
+  color: #000000;
+  font-weight: bold;
+}
+@media (max-width: 767px) {
+  .container {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .inner-container {
+    width: 350px;
+    padding: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .inner-container {
+    width: 800px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+}
+
+.dropdown {
+  display: flex;
+}

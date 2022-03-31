@@ -1,0 +1,104 @@
+.container {
+  height: 100vh;
+}
+.inner-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 0px;
+}
+.imageUrl-container {
+  width: 600px;
+  margin-left: 60px;
+  margin-top: 50px;
+}
+
+.tablist-headers {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.unordered-list {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 800px;
+  margin-left: 50px;
+}
+@media (min-width: 768px) {
+  .score-card-container {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+    width: 600px;
+  }
+  .unordered-list {
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 767px) {
+  .score-card-container {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-sm-bg.png');
+    width: 400px;
+
+    background-size: cover;
+    margin-bottom: 100px;
+  }
+  .unordered-list {
+    justify-content: center;
+    width: 300px;
+  }
+
+  .imageUrl-container {
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+}
+.score-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-bottom: 100px;
+}
+.trophy {
+  width: 200px;
+  margin-top: 50px;
+}
+.your-score-paragraph {
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
+.play-again {
+  background-color: #cf60c8;
+  border-radius: 5px;
+  color: white;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0px;
+  padding: 15px;
+  cursor: pointer;
+}
+.score-card-score {
+  color: white;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.score-card-span {
+  color: white;
+
+  font-weight: bold;
+}

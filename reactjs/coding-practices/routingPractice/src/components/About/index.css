@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.about-container {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-heading {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.about-paragraph {
+  color: #551e53;
+  font-family: 'Roboto';
+}
+
+@media (max-width: 767px) {
+  img {
+    width: 200px;
+  }
+}

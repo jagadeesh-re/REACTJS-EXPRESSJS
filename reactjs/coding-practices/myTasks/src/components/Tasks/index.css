@@ -1,0 +1,107 @@
+.tasks-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.first-container {
+  height: 100vh;
+  flex-grow: 1;
+  background-color: #131213;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.second-container {
+  height: 100vh;
+  flex-grow: 5;
+  background-color: #000000;
+}
+ul {
+  list-style-type: none;
+}
+.create-heading {
+  color: #f3aa4e;
+}
+.textInput {
+  height: 25px;
+}
+.formElement {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 200px;
+}
+label {
+  color: white;
+}
+select {
+  width: 170px;
+  height: 25px;
+}
+.addTask {
+  background-color: #f3aa4e;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: White;
+  height: 40px;
+  width: 100px;
+  border-radius: 12px;
+  border: 0px;
+}
+.tag-button {
+  background-color: transparent;
+  color: white;
+  border: 0px;
+}
+.tag-item {
+  background-color: transparent;
+  border-style: solid;
+  border-color: #f3aa4e;
+  width: 100px;
+  border-radius: 20px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.tags {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 600px;
+}
+h1 {
+  color: white;
+}
+.tags-added-container {
+  width: 600px;
+}
+.item-added {
+  background-color: #323f4b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.task-paragraph {
+  color: white;
+}
+.tag-paragraph {
+  background-color: #f3aa4e;
+  border-radius: 20px;
+  min-width: 80px;
+  max-width: 150px;
+  text-align: center;
+  padding: 10px;
+  font-size: 12px;
+}

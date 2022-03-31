@@ -1,0 +1,71 @@
+.record-sections {
+  display: flex;
+  flex-direction: column;
+  background-color: linear-gradient(to right, #f9f8ff, #e7e5ef);
+}
+.records-container {
+  border-color: #d0cddb;
+
+  margin: 30px;
+}
+@media (max-width: 767px) {
+  .records-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+}
+.record-items {
+  display: flex;
+  list-style-type: none;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.content {
+  display: flex;
+  overflow-y: auto;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 200px;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 20px;
+}
+
+.item-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+}
+.item-paragraph {
+  font-family: 'Roboto';
+
+  font-size: 15px;
+}
+.book-logos {
+  width: 100%;
+  position: center;
+
+  border-radius: 100px;
+}
+.book-logo-container {
+  width: 300px;
+  height: 300px;
+  border-radius: 100px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.products-loader-container {
+  width: 100vw;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

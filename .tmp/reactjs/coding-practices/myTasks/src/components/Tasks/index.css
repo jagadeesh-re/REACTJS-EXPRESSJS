@@ -1,0 +1,15 @@
+.tasks-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.first-container {
+  height: 100vh;
+  flex-grow: 1;
+}
+.second-container {
+  height: 100vh;
+  flex-grow: 1;
+}

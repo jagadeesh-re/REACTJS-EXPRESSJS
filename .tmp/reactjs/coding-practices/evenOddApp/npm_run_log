@@ -1,0 +1,16 @@
+Cleared /tmp/jest_0
+  console.log
+    16
+
+      at EvenOddApp.<anonymous> (src/components/EvenOddApp/index.js:13:15)
+
+  console.log
+    12
+
+      at EvenOddApp.<anonymous> (src/components/EvenOddApp/index.js:13:15)
+
+  console.log
+    11
+
+      at EvenOddApp.<anonymous> (src/components/EvenOddApp/index.js:13:15)
+

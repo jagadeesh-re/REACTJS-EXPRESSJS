@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.similar-rating {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #3b82f6;
+  width: 70px;
+  height: 25px;
+  border-radius: 5px;
+}
+.star {
+  width: 20px;
+  margin-left: 10px;
+}
+.similar-imageurl {
+  width: 100px;
+}
+.similar-title {
+  font-size: 15px;
+}
+.similar-brand {
+  color: #1e293b;
+}
+.similar-price {
+  color: #12022f;
+  font-weight: bold;
+}
+.similar-item {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}

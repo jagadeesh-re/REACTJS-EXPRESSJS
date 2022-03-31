@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.unordered-list {
+  list-style-type: none;
+}
+.headingSection {
+  margin-left: 50px;
+}
+@media (min-width: 768px) {
+  .unordered-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 1200px;
+  }
+}
+.search-icon {
+  width: 20px;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.container {
+  background-color: #000000;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 767px) {
+  .container {
+    padding: 50px;
+  }
+}

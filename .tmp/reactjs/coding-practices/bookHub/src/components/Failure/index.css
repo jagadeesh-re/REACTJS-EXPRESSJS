@@ -1,0 +1,51 @@
+.failure-container {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.failure-heading {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  /* Light / blue-gray / 600 */
+
+  color: #475569;
+}
+
+.failure-paragraph {
+  color: #616e7c;
+}
+
+.try-again {
+  height: 48px;
+  width: 112px;
+  border-radius: 12px;
+  background-color: #0284c7;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+
+  line-height: 16px;
+  /* identical to box height, or 171% */
+
+  /* Light / base / white */
+
+  color: #ffffff;
+  padding: 12px, 24px, 12px, 24px;
+}
+.no-books-img {
+  width: 35%;
+}
+.try-again {
+  border: 0px;
+  color: white;
+  font-family: 'Roboto';
+}

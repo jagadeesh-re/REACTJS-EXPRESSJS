@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.TeamMatches-container {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .TeamMatches-container {
+    width: 1200px;
+  }
+}
+.banner-logo {
+  width: 100%;
+  margin-top: 50px;
+}
+.team-matches-inner-container {
+  width: 1000px;
+}
+.competing-image-logo {
+  width: 300px;
+}
+.latestMatch-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  border-style: solid;
+  padding: 20px;
+
+  color: white;
+  background-color: #1e293b;
+  border-radius: 12px;
+}
+
+@media (max-width: 767px) {
+  .latestMatch-details {
+    width: 500px;
+  }
+  .TeamMatches-container {
+    width: 600px;
+    padding-left: 50px;
+  }
+  .banner-container {
+    width: 500px;
+  }
+  .team-matches-inner-container {
+    width: 600px;
+  }
+  .competing-image-logo {
+    width: 100px;
+  }
+}
+h1 {
+  font-size: 15px;
+}
+.latest-match {
+  color: white;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.recentmatch-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}

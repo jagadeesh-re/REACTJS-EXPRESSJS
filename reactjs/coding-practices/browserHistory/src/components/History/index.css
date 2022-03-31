@@ -1,0 +1,64 @@
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.historyInformation {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.time {
+  margin-right: 40px;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.logo {
+  width: 20px;
+  margin-right: 20px;
+}
+button {
+  cursor: pointer;
+  margin-right: 20px;
+  background-color: white;
+  border: 0px;
+}
+.title {
+  margin-right: 10px;
+}
+.domain {
+  color: #64748b;
+}
+
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.titleContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+@media (max-width: 575px) {
+  .historyInformation {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .titleContainer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .title {
+    margin-bottom: 0px;
+  }
+  .domain {
+    margin-top: 0px;
+  }
+}

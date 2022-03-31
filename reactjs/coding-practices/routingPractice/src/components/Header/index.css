@@ -1,0 +1,85 @@
+/* Write your CSS code here */
+.nav-container {
+  height: 20vh;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.redirect-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wave {
+  width: 40px;
+}
+.link {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-weight: bold;
+  text-decoration: none;
+}
+@media (min-width: 768px) {
+  .nav-container {
+    width: 1200px;
+  }
+  li {
+    width: 300px;
+  }
+  .paragraph-wave {
+    color: #551e53;
+    font-family: 'Roboto';
+    font-weight: bold;
+    margin-left: 10px;
+  }
+  .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  ul {
+    width: 1000px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav-container {
+    width: 300px;
+  }
+  li {
+    width: 150px;
+  }
+  .paragraph-wave {
+    color: #551e53;
+    font-family: 'Roboto';
+    font-weight: bold;
+    margin-left: 10px;
+  }
+  .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  ul {
+    width: 1000px;
+  }
+  .link {
+    margin-left: 20px;
+  }
+}

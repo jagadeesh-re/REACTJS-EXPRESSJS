@@ -1,0 +1,42 @@
+/* Write your code here. */
+/* Write your code here. */
+.container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: 100%;
+}
+.top-container {
+  height: 20vh;
+}
+.bottom-container {
+  height: 100%;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 1200px;
+  }
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.win-loose-display {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 767px) {
+  .win-loose-display {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-bottom: 20px;
+  }
+}

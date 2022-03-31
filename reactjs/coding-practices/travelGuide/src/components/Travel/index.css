@@ -1,0 +1,38 @@
+.travel-container {
+  height: 100vh;
+}
+
+.unordered-tour-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+
+  width: 1024px;
+}
+li {
+  margin-bottom: 20px;
+  height: 400px;
+}
+.travel-heading {
+  text-align: center;
+  text-decoration: underline;
+}
+.travel-image {
+  width: 350px;
+}
+.travel-container {
+  width: 450px;
+  height: 400px;
+}
+.travel-name {
+  color: #475569;
+  font-size: 20px;
+}
+.travel-description {
+  color: #64748b;
+  font-size: 15px;
+  width: 350px;
+}

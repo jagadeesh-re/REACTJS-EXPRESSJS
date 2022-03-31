@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.speedButtons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.speedContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.speedImage {
+  width: 500px;
+}
+.countHeading {
+  font-style: italic;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.buttonAccelerate {
+  background-color: #0b69ff;
+  padding: 10px;
+  font-family: 'Roboto';
+  border: 0px;
+  color: white;
+  margin-right: 10px;
+  border-radius: 12px;
+}
+.buttonApplyBrake {
+  background-color: transparent;
+  padding: 10px;
+  font-family: 'Roboto';
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+  color: white;
+  margin-right: 10px;
+  border-radius: 12px;
+}

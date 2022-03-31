@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.match-list-headers {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.list-item {
+  width: 350px;
+  background-color: #ffffff33;
+  height: 150px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-color: #ffffff;
+  border-style: solid;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+  text-decoration: none;
+}
+.match-image {
+  width: 50px;
+  margin-left: 30px;
+  margin-right: 10px;
+}
+.math-name {
+  color: white;
+  font-size: 20px;
+  margin-right: 70px;
+  text-decoration: none;
+}
+@media (max-width: 768px) {
+  .list-item {
+    width: 200px;
+  }
+}

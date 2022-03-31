@@ -1,0 +1,132 @@
+.jobs-container {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  padding-top: 20px;
+}
+@media (max-width: 767px) {
+  .jobs-container {
+    flex-direction: column;
+  }
+}
+.side-container {
+  width: 400px;
+
+  padding-top: 50px;
+}
+.right-container {
+  width: 100vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 250px;
+  padding: 20px;
+}
+.retry-profile-button {
+  background-color: #4f46e5;
+  width: 80px;
+  height: 30px;
+  border: 0px;
+  border-radius: 5px;
+  color: white;
+}
+.profile-section-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+
+  flex-wrap: wrap;
+}
+.profile-heading {
+  color: #6366f1;
+  font-size: 20px;
+}
+.profile-paragraph {
+  color: #2c364c;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+hr {
+  border-style: solid;
+  border-color: #2c364c;
+}
+.employment-type-section {
+  height: 250px;
+
+  padding: 20px;
+}
+.type-label {
+  color: white;
+  margin-left: 10px;
+}
+.type-heading {
+  color: white;
+  font-size: 20px;
+}
+.checkbox-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.checkbox {
+  width: 15px;
+  height: 15px;
+}
+.search-container {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #64748b;
+  width: 250px;
+  border-radius: 5px;
+  align-self: flex-start;
+}
+.search-input {
+  width: 210px;
+  height: 30px;
+  border: 0px;
+  background-color: transparent;
+  padding-left: 10px;
+  color: white;
+  outline: none;
+}
+.search-icon {
+  background-color: #121212;
+  width: 38px;
+  border: 0px;
+  height: 30px;
+  color: white;
+}
+.retry-job-button {
+  background-color: #6366f1;
+  width: 100px;
+  height: 40px;
+  border: 0px;
+  border-radius: 5px;
+}
+.heading-job-failure {
+  color: white;
+}
+.paragraph-job-failure {
+  color: white;
+}
+.job-failure-container {
+  text-align: center;
+}
+.show-jobs {
+  list-style-type: none;
+}

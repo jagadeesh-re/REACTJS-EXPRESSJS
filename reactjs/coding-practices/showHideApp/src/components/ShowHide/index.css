@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  background-image: linear-gradient(to left, #fa7257, #dd1264);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+}
+button {
+  padding: 10px;
+  border-radius: 10px;
+  color: #dd1264;
+  margin-right: 10px;
+  font-weight: bold;
+  border: 0px;
+}
+.mask {
+  width: 300px;
+  height: 150px;
+  background-color: #fddddb;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+.mask1 {
+  width: 300px;
+  height: 150px;
+  background-color: transparent;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+.alignNamesClass {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.item {
+  margin-right: 15px;
+}

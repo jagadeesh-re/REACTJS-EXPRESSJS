@@ -1,0 +1,19 @@
+  console.log
+    Server Running at http://localhost:3000/
+
+      at Server.<anonymous> (../app.js:18:15)
+
+  console.log
+    2
+
+      at ../app.js:75:11
+
+  console.log
+    [
+      { matchId: 1, match: 'RR vs SRH', year: 2011 },
+      { matchId: 9, match: 'CSK vs RR', year: 2010 },
+      { matchId: 10, match: 'MI vs SRH', year: 2012 }
+    ]
+
+      at ../app.js:84:11
+

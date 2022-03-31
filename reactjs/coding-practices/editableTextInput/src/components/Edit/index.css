@@ -1,0 +1,40 @@
+.edit-container {
+  height: 100vh;
+  background-color: #d946ef;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.edit-text-container {
+  width: 500px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 15px;
+}
+button {
+  background-color: #d946ef;
+  border: 0px;
+  width: 60px;
+  height: 25px;
+  margin-left: 5px;
+  border-radius: 5px;
+  color: white;
+}
+input {
+  border-style: Solid;
+  height: 30px;
+  border-radius: 5px;
+  border-color: #cbd2d9;
+  border-width: 1px;
+}
+.text-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}

@@ -1,0 +1,22 @@
+@media (min-width: 768px) {
+  .thumbnailurl {
+    width: 120px;
+    cursor: pointer;
+  }
+  .itemsList {
+    margin-right: 50px;
+  }
+}
+@media (max-width: 767px) {
+  .thumbnailurl {
+    width: 50px;
+    cursor: pointer;
+  }
+  .itemsList {
+    margin-right: 10px;
+  }
+}
+.imagelist-button {
+  border: 0px;
+  background-color: transparent;
+}

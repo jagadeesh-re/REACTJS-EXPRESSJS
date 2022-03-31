@@ -1,0 +1,12 @@
+.item {
+  flex-grow: 1;
+  height: 40px;
+}
+.delete {
+  background-color: transparent;
+  border: 0px;
+  width: 300px;
+}
+.deleteImage {
+  width: 50%;
+}

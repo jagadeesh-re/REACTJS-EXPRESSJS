@@ -1,0 +1,122 @@
+Cleared /tmp/jest_0
+  console.error
+    Error: Not implemented: HTMLFormElement.prototype.submit
+        at module.exports (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:9:17)
+        at HTMLFormElementImpl.submit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+        at HTMLFormElementImpl._doSubmit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+        at HTMLButtonElementImpl._activationBehavior (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+        at HTMLButtonElementImpl._dispatch (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+        at HTMLButtonElementImpl.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:94:17)
+        at HTMLButtonElement.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/generated/EventTarget.js:231:34)
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/dom@7.31.2/node_modules/@testing-library/dom/dist/events.js:25:20
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/react@11.2.5_react-dom@17.0.1+react@17.0.1/node_modules/@testing-library/react/dist/pure.js:64:16
+        at batchedUpdates$1 (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:22380:12) undefined
+
+      at VirtualConsole.<anonymous> (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/virtual-console.js:29:45)
+      at module.exports (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:12:26)
+      at HTMLFormElementImpl.submit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+      at HTMLFormElementImpl._doSubmit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+      at HTMLButtonElementImpl._activationBehavior (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+      at HTMLButtonElementImpl._dispatch (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+
+  console.error
+    Error: Not implemented: HTMLFormElement.prototype.submit
+        at module.exports (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:9:17)
+        at HTMLFormElementImpl.submit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+        at HTMLFormElementImpl._doSubmit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+        at HTMLButtonElementImpl._activationBehavior (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+        at HTMLButtonElementImpl._dispatch (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+        at HTMLButtonElementImpl.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:94:17)
+        at HTMLButtonElement.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/generated/EventTarget.js:231:34)
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/dom@7.31.2/node_modules/@testing-library/dom/dist/events.js:25:20
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/react@11.2.5_react-dom@17.0.1+react@17.0.1/node_modules/@testing-library/react/dist/pure.js:64:16
+        at batchedUpdates$1 (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:22380:12) undefined
+
+      at VirtualConsole.<anonymous> (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/virtual-console.js:29:45)
+      at module.exports (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:12:26)
+      at HTMLFormElementImpl.submit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+      at HTMLFormElementImpl._doSubmit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+      at HTMLButtonElementImpl._activationBehavior (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+      at HTMLButtonElementImpl._dispatch (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+
+  console.error
+    Error: Not implemented: HTMLFormElement.prototype.submit
+        at module.exports (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:9:17)
+        at HTMLFormElementImpl.submit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+        at HTMLFormElementImpl._doSubmit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+        at HTMLButtonElementImpl._activationBehavior (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+        at HTMLButtonElementImpl._dispatch (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+        at HTMLButtonElementImpl.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:94:17)
+        at HTMLButtonElement.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/generated/EventTarget.js:231:34)
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/dom@7.31.2/node_modules/@testing-library/dom/dist/events.js:25:20
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/react@11.2.5_react-dom@17.0.1+react@17.0.1/node_modules/@testing-library/react/dist/pure.js:64:16
+        at batchedUpdates$1 (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:22380:12) undefined
+
+      at VirtualConsole.<anonymous> (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/virtual-console.js:29:45)
+      at module.exports (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:12:26)
+      at HTMLFormElementImpl.submit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+      at HTMLFormElementImpl._doSubmit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+      at HTMLButtonElementImpl._activationBehavior (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+      at HTMLButtonElementImpl._dispatch (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+
+  console.error
+    Error: Not implemented: HTMLFormElement.prototype.submit
+        at module.exports (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:9:17)
+        at HTMLFormElementImpl.submit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+        at HTMLFormElementImpl._doSubmit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+        at HTMLButtonElementImpl._activationBehavior (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+        at HTMLButtonElementImpl._dispatch (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+        at HTMLButtonElementImpl.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:94:17)
+        at HTMLButtonElement.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/generated/EventTarget.js:231:34)
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/dom@7.31.2/node_modules/@testing-library/dom/dist/events.js:25:20
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/react@11.2.5_react-dom@17.0.1+react@17.0.1/node_modules/@testing-library/react/dist/pure.js:64:16
+        at batchedUpdates$1 (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:22380:12) undefined
+
+      at VirtualConsole.<anonymous> (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/virtual-console.js:29:45)
+      at module.exports (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:12:26)
+      at HTMLFormElementImpl.submit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+      at HTMLFormElementImpl._doSubmit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+      at HTMLButtonElementImpl._activationBehavior (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+      at HTMLButtonElementImpl._dispatch (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+
+  console.error
+    Error: Not implemented: HTMLFormElement.prototype.submit
+        at module.exports (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:9:17)
+        at HTMLFormElementImpl.submit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+        at HTMLFormElementImpl._doSubmit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+        at HTMLButtonElementImpl._activationBehavior (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+        at HTMLButtonElementImpl._dispatch (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+        at HTMLButtonElementImpl.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:94:17)
+        at HTMLButtonElement.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/generated/EventTarget.js:231:34)
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/dom@7.31.2/node_modules/@testing-library/dom/dist/events.js:25:20
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/react@11.2.5_react-dom@17.0.1+react@17.0.1/node_modules/@testing-library/react/dist/pure.js:64:16
+        at batchedUpdates$1 (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:22380:12) undefined
+
+      at VirtualConsole.<anonymous> (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/virtual-console.js:29:45)
+      at module.exports (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:12:26)
+      at HTMLFormElementImpl.submit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+      at HTMLFormElementImpl._doSubmit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+      at HTMLButtonElementImpl._activationBehavior (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+      at HTMLButtonElementImpl._dispatch (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+
+  console.error
+    Error: Not implemented: HTMLFormElement.prototype.submit
+        at module.exports (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:9:17)
+        at HTMLFormElementImpl.submit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+        at HTMLFormElementImpl._doSubmit (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+        at HTMLButtonElementImpl._activationBehavior (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+        at HTMLButtonElementImpl._dispatch (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+        at HTMLButtonElementImpl.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:94:17)
+        at HTMLButtonElement.dispatchEvent (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/generated/EventTarget.js:231:34)
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/dom@7.31.2/node_modules/@testing-library/dom/dist/events.js:25:20
+        at /home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/@testing-library/react@11.2.5_react-dom@17.0.1+react@17.0.1/node_modules/@testing-library/react/dist/pure.js:64:16
+        at batchedUpdates$1 (/home/workspace/.tmp/reactjs/coding-practices/characterCounter/node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:22380:12) undefined
+
+      at VirtualConsole.<anonymous> (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/virtual-console.js:29:45)
+      at module.exports (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:12:26)
+      at HTMLFormElementImpl.submit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:88:5)
+      at HTMLFormElementImpl._doSubmit (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js:80:10)
+      at HTMLButtonElementImpl._activationBehavior (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js:23:14)
+      at HTMLButtonElementImpl._dispatch (node_modules/.pnpm/jsdom@16.7.0/node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js:240:26)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

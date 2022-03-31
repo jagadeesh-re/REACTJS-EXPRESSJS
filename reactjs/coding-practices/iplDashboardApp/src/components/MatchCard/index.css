@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.recent-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  background-color: #0f172a;
+  border-radius: 12px;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+  height: 400px;
+  margin-right: 10px;
+}
+.recent-list-image {
+  width: 200px;
+  height: 200px;
+}
+.won {
+  color: green;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.loss {
+  color: red;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+@media (max-width: 767px) {
+  /* Write your CSS here */
+  .recent-list {
+    width: 150px;
+    height: 300px;
+  }
+  .recent-list-image {
+    width: 20px;
+    height: 20px;
+  }
+}

@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.left-arrow {
+  width: 25px;
+  cursor: pointer;
+}
+li {
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  color: #475569;
+}
+p {
+  width: 300px;
+  margin-right: 40px;
+}

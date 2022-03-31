@@ -1,0 +1,24 @@
+.count-container {
+  height: 100vh;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.first-container {
+  background-color: #ffc533;
+  flex-grow: 1;
+  height: 100vh;
+}
+.second-container {
+  height: 100vh;
+  flex-grow: 1;
+  background-color: #0f172a;
+}
+.image-empty {
+  width: 300px;
+}
+ul {
+  list-style-type: none;
+}

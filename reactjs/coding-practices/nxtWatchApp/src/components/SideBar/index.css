@@ -1,0 +1,22 @@
+.link {
+  text-decoration: none;
+}
+.brightHomeClass {
+  color: red;
+}
+
+.brightTrendClass {
+  color: red;
+}
+
+.brightGameClass {
+  color: red;
+}
+
+.brightSavedClass {
+  color: red;
+}
+.social-icons {
+  width: 30px;
+  margin-right: 10px;
+}

@@ -1,0 +1,43 @@
+/* Write your code here. */
+.container {
+  height: 100vh;
+  background-color: #f1f5f8;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inner-container {
+  background-color: #ffffff;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 1200px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container {
+    width: 500px;
+  }
+  .inner-container {
+    width: 400px;
+  }
+  li {
+    width: 390px;
+  }
+}
+.main-heading {
+  color: #cb8805;
+}
+ul {
+  padding: 0px;
+  list-style-type: none;
+}

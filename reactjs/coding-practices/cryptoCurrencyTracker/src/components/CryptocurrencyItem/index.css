@@ -1,0 +1,42 @@
+/* Write your CSS code here */
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  color: white;
+  width: 600px;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 400px;
+  flex-grow: 1;
+}
+.bitcoin-image {
+  width: 20px;
+  margin-right: 20px;
+}
+.value {
+  width: 200px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  flex-grow: 1;
+}
+@media (max-width: 767px) {
+  li {
+    width: 450px;
+  }
+  .list-item {
+    width: 250px;
+  }
+
+  .value {
+    width: 100px;
+  }
+}

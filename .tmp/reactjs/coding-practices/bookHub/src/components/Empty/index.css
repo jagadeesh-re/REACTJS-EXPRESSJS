@@ -1,0 +1,23 @@
+.search-failure-image {
+  margin-top: 20px;
+  width: 476px;
+  height: 270px;
+}
+.search-failure-paragraph {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  /* Light / blue-gray / 700 */
+
+  color: #334155;
+}
+.search-failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

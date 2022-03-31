@@ -1,0 +1,20 @@
+@media (max-width: 767px) {
+  .sidebar {
+    display: none;
+  }
+}
+.profile-image {
+  width: 30px;
+  align-self: flex-start;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.thumbnail-image {
+  width: 90%;
+}
+.video-item-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}

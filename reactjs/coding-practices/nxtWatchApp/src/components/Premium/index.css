@@ -1,0 +1,27 @@
+.brightClass {
+  background-color: #0f0f0f;
+}
+.premium-logo {
+  width: 45%;
+}
+.getPremiumButton {
+  background-color: transparent;
+  width: 100px;
+  height: 45px;
+  border-style: solid;
+  border-color: #1e293b;
+  border-radius: 5px;
+  color: #475569;
+  font-weight: bold;
+}
+.premium-heading {
+  color: #475569;
+  font-size: 15px;
+}
+.close-container {
+  align-self: flex-start;
+}
+.banner-close {
+  border: 0px;
+  background-color: transparent;
+}

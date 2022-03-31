@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.not-found-container {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-heading {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+@media (max-width: 767px) {
+  img {
+    width: 200px;
+  }
+}

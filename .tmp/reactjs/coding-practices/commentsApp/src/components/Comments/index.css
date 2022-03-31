@@ -1,0 +1,87 @@
+/* Write your CSS here */
+
+/* Write your CSS here */
+.container {
+  height: 100vh;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+input {
+  margin-bottom: 10px;
+  border-color: #dee0e3;
+  border-style: 'solid';
+  border-width: 1px;
+  width: 200px;
+  height: 40px;
+  outline: none;
+}
+.add-comment {
+  background-color: #0284c7;
+  border: 0px;
+  padding: 10px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.textarea {
+  border-color: #dee0e3;
+  border-width: 1px;
+  outline: none;
+}
+.commentImage {
+  margin-left: 20px;
+  width: 300px;
+}
+.inner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+hr {
+  color: #dee0e3;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 700px;
+    padding: 20px;
+  }
+}
+ul {
+  padding: 0px;
+  list-style-type: none;
+}
+.total-comments {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.count-comment {
+  margin-right: 10px;
+  background-color: #0284c7;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 5px;
+}
+@media (max-width: 767px) {
+  .form-container {
+    order: 2;
+  }
+  .inner-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .heading {
+    text-align: center;
+  }
+}

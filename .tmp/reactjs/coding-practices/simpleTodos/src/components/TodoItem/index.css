@@ -1,0 +1,18 @@
+/* Write your CSS here */
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 20px;
+  font-weight: bold;
+}
+button {
+  border-color: #ff0b37;
+  padding: 10px;
+  border-radius: 10px;
+  color: pink;
+  background-color: white;
+  border-width: 1px;
+  cursor: pointer;
+}

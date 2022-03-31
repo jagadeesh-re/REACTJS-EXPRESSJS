@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+img {
+  width: 60px;
+}
+.list-item {
+  margin-right: 10px;
+  border: 0px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 5px;
+}

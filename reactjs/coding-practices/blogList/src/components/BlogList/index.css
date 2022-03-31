@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.bloglist-details {
+  list-style-type: none;
+  padding: 0px;
+
+  width: 100%;
+}
+.blog-list-container {
+  align-self: flex-start;
+  width: 100%;
+  padding: 10px;
+}

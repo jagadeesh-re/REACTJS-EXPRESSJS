@@ -1,0 +1,51 @@
+/* Write your CSS code here. */
+.container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.innerContainer {
+  background-color: white;
+  border-radius: 12px;
+  width: 600px;
+  padding: 50px;
+}
+.emojisContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+.image {
+  width: 50px;
+  cursor: pointer;
+}
+p {
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-left: 5px;
+}
+.loveImage {
+  width: 50px;
+}
+.endPage {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 600px;
+}
+ul {
+  list-style-type: none;
+}
+.feedback {
+  color: #1e293b;
+  font-weight: lighter;
+}

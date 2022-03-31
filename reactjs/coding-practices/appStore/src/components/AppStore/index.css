@@ -1,0 +1,81 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+}
+.heading {
+  font-family: 'Bree Serif';
+}
+
+.search-container {
+  border-style: solid;
+  border-color: #7b8794;
+  width: 400px;
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+}
+.search-image {
+  width: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+}
+
+.listItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+input {
+  outline: none;
+  height: 20px;
+  border: 0px;
+  background-color: transparent;
+  width: 400px;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 1200px;
+  }
+  .listItems {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 350px;
+  }
+}
+@media (max-width: 767px) {
+  .container {
+    width: 500px;
+  }
+  .listItems {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 300px;
+  }
+  .search-container {
+    width: 200px;
+    width: 200px;
+  }
+  input {
+    width: 300px;
+  }
+}

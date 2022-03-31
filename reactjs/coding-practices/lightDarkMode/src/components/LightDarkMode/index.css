@@ -1,0 +1,28 @@
+.color {
+  background-color: #000000;
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 12px;
+  text-align: center;
+  padding: 20px;
+}
+.color1 {
+  background-color: white;
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 12px;
+  text-align: center;
+  padding: 20px;
+}
+.heading {
+  color: white;
+}
+
+.container {
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

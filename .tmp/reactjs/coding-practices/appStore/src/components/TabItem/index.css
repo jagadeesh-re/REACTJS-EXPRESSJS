@@ -1,0 +1,22 @@
+li {
+  width: 100px;
+
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #7b8794;
+  text-align: center;
+  padding-bottom: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.highlight {
+  border-color: #2563eb;
+  color: #2563eb;
+}
+button {
+  border: 0px;
+  cursor: pointer;
+  color: #7b8794;
+  font-weight: bold;
+}

@@ -1,0 +1,36 @@
+.trigger-button {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: white;
+  padding: 8px 15px 8px 15px;
+  margin: 8px;
+  background-color: #7c69e9;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+
+.popup-content {
+  width: 300px;
+  height: 250px;
+  margin-bottom: 20px;
+  display: flex;
+  border-radius: 12px;
+  flex-direction: row;
+  border: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.popup-content {
+  background-color: #181818;
+}
+@media (min-width: 768px) {
+  .hide-menu {
+    display: none;
+  }
+}
+.popBackColor {
+  background-color: #181818;
+}

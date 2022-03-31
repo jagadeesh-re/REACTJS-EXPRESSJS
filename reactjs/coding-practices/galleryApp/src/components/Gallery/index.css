@@ -1,0 +1,51 @@
+/* Write your code here. */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.unordered-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  list-style-type: none;
+  padding: 0px;
+}
+.heading {
+  color: #1e293b;
+}
+.paragraph {
+  color: #64748b;
+}
+.listblur {
+  opacity: 0.5;
+}
+@media (min-width: 768px) {
+  .inner-container {
+    width: 1200px;
+  }
+  .main-image {
+    width: 768px;
+  }
+}
+
+@media (max-width: 767px) {
+  .inner-container {
+    width: 350px;
+  }
+  .main-image {
+    width: 300px;
+  }
+  .container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 50px;
+  }
+}

@@ -1,0 +1,627 @@
+Cleared /tmp/jest_0
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.error
+    Warning: Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in the componentWillUnmount method.
+        at CowinDashboard (/home/workspace/.tmp/reactjs/coding-practices/cowinDashboard/src/components/CowinDashboard/index.js:28:40)
+        at App
+
+      66 |         ),
+      67 |       }
+    > 68 |       this.setState({
+         |            ^
+      69 |         vaccinationData: updatedData,
+      70 |         apiStatus: apiStatusConstants.success,
+      71 |       })
+
+      at printWarning (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:67:30)
+      at error (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:43:5)
+      at warnAboutUpdateOnUnmountedFiberInDEV (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:23914:9)
+      at scheduleUpdateOnFiber (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:21840:5)
+      at Object.enqueueSetState (node_modules/.pnpm/react-dom@17.0.1_react@17.0.1/node_modules/react-dom/cjs/react-dom.development.js:12467:5)
+      at CowinDashboard.setState (node_modules/.pnpm/react@17.0.1/node_modules/react/cjs/react.development.js:365:16)
+      at CowinDashboard.getVaccinationData (src/components/CowinDashboard/index.js:68:12)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+
+  console.log
+    0
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    1500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    3000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    4500000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    6000000
+
+      at dataFormatter (src/components/VaccinationCoverage/index.js:7:13)
+          at Array.map (<anonymous>)
+

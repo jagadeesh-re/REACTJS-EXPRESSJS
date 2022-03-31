@@ -1,0 +1,24 @@
+.countries-container {
+  height: 100vh;
+  background-color: #161624;
+}
+.first-container {
+  overflow-y: scroll;
+  height: 200px;
+  width: 400px;
+}
+.no-countries {
+  color: white;
+}
+.country-image {
+  width: 100px;
+}
+.remove-country {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+ul {
+  list-style-type: none;
+}

@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffd569;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 800px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+img {
+  width: 200px;
+}
+span {
+  color: #ffd569;
+}
+button {
+  border: 0px;
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.innerContainer {
+  padding: 20px;
+  background-color: white;
+  border-radius: 12px;
+}
+.itemContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 767px) {
+  .items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

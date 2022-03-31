@@ -1,0 +1,57 @@
+Cleared /tmp/jest_0
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    tamil
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    english
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+  console.log
+    tamil
+
+      at Language.render (src/components/Language/index.js:37:13)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

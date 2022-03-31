@@ -1,0 +1,51 @@
+.money-image {
+  width: 50px;
+  margin-right: 10px;
+}
+.money-image-container-Balance {
+  background-color: #84cc16;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.money-image-container-Income {
+  background-color: #06b6d4;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.money-image-container-Expenses {
+  background-color: #7c3aed;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 12px;
+  padding: 10px;
+}
+.balance-paragraph {
+  opacity: 5;
+}
+li {
+  margin-right: 35px;
+  height: 100px;
+  flex-grow: 1;
+}
+
+@media (max-width: 767px) {
+  li {
+    margin-right: 35px;
+    height: 100px;
+    margin-bottom: 20px;
+    width: 300px;
+  }
+}

@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.user-heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.profile-image {
+  width: 150px;
+}

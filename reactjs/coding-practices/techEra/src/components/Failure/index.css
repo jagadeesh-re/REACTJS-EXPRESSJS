@@ -1,0 +1,12 @@
+.failure-image {
+  width: 600px;
+}
+.failure-heading {
+  color: #475569;
+}
+.failure-paragraph {
+  color: #64748b;
+}
+.failure-container {
+  text-align: center;
+}

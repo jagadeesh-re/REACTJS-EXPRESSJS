@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.innerContainer {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  padding: 100px;
+  border-radius: 12px;
+}
+
+h1 {
+  font-weight: 'bold';
+}
+
+button {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

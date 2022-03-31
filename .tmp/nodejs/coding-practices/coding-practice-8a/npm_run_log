@@ -1,0 +1,55 @@
+  console.log
+    Server Running at http://localhost:3000/
+
+      at Server.<anonymous> (../app.js:19:15)
+
+  console.log
+    [
+      { id: 2, todo: 'Buy a Car', priority: 'MEDIUM', status: 'TO DO' },
+      { id: 3, todo: 'Clean the garden', priority: 'LOW', status: 'TO DO' },
+      {
+        id: 5,
+        todo: 'Attend a ceremony',
+        priority: 'LOW',
+        status: 'TO DO'
+      }
+    ]
+
+      at ../app.js:33:11
+
+  console.log
+    [
+      {
+        id: 1,
+        todo: 'Learn Node JS',
+        priority: 'HIGH',
+        status: 'IN PROGRESS'
+      }
+    ]
+
+      at ../app.js:33:11
+
+  console.log
+    [
+      {
+        id: 1,
+        todo: 'Learn Node JS',
+        priority: 'HIGH',
+        status: 'IN PROGRESS'
+      }
+    ]
+
+      at ../app.js:33:11
+
+  console.log
+    [
+      {
+        id: 4,
+        todo: 'Play video games',
+        priority: 'MEDIUM',
+        status: 'DONE'
+      }
+    ]
+
+      at ../app.js:33:11
+

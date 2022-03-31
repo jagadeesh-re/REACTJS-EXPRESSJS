@@ -1,0 +1,30 @@
+/* Write your code here. */
+.superLeague {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.superLeagueHeading {
+  color: #f8fafc;
+  font-family: "Roboto";
+  text-align: center;
+}
+
+.superLeaguePoster {
+  display: flex;
+  flex-direction: row;
+}
+@media (max-width: 767px) {
+  .superImage {
+    width: 150px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .superImage {
+    height: 150px;
+  }
+}

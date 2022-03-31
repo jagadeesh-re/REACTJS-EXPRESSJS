@@ -1,0 +1,24 @@
+li {
+  font-family: 'Roboto';
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 5px;
+  cursor: pointer;
+}
+.tablist-bottom-color {
+  width: 100px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #fec653;
+  color: #fec653;
+}
+.dummy {
+  width: 100px;
+  color: white;
+}
+.tablist-button {
+  border: 0px;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+}

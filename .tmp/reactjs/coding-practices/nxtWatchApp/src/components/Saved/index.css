@@ -1,0 +1,29 @@
+@media (max-width: 767px) {
+  .sidebar {
+    display: none;
+  }
+}
+.profile-image {
+  width: 30px;
+  align-self: flex-start;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.trending-image {
+  width: 50%;
+}
+.video-item-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.noSaved {
+  width: 50%;
+}
+.noSavedContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

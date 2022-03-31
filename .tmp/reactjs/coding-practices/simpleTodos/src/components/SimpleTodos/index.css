@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 50px;
+}
+.innerContainer {
+  background-color: white;
+  border-radius: 12px;
+}
+.heading {
+  color: #ff8542;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}

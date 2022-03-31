@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+}
+.innerContainer {
+  background-color: #150b3e;
+  border-radius: 12px;
+  width: 500px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+.profileContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
+.profile {
+  border-radius: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 90px;
+  margin-right: 20px;
+  background-color: #c7d2fe;
+  color: #7c3aed;
+}
+.profileName {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-weight: lighter;
+}
+.balanceParagraph {
+  color: #585076;
+  margin-top: 30px;
+}
+.balanceContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-left: 30px;
+}
+.balanceDisplayHeading {
+  color: white;
+}
+.balanceDescription {
+  color: #585076;
+}
+.withdrawHeading {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-left: 30px;
+}
+.withdrawDescription {
+  color: #585076;
+  margin-left: 30px;
+}
+.unordered-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}

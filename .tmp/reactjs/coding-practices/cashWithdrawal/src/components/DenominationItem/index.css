@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+button {
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  border-style: solid;
+  width: 190px;
+  border-color: #d4d2db;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #382f5a;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,79 @@
+.job-list-container {
+  width: 600px;
+  background-color: #121212;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.rating-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.star-rating-react-icon {
+  color: #fbbf24;
+  margin-right: 5px;
+}
+.company-top-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.company-logo {
+  width: 50px;
+  margin-right: 20px;
+}
+
+.job-title {
+  color: white;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.job-rating {
+  color: white;
+  font-family: 'Roboto';
+}
+.job-location-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.job-location-paragraph {
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.job-location-details-icons {
+  color: white;
+}
+.job-employmentType-paragraph {
+  color: white;
+  margin-left: 10px;
+}
+.job-location-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.package-paragraph {
+  color: white;
+  font-family: 'Roboto';
+}
+hr {
+  color: white;
+}
+.job-description-heading {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.job-description-paragraph {
+  color: white;
+}
+.link-details-job {
+  text-decoration: none;
+}
